@@ -80,7 +80,7 @@ Nombre d'hôtes possibles : 254
 ## 🧑‍💻 Auteur
 
 **Sene**
-🐙 [Ton GitHub](https://github.com/sene404)
+🐙 [Mon Github](https://github.com/sene404)
 
 ---
 
