@@ -38,7 +38,7 @@ pip install colorama
 Clonez le dépôt :
 
 ```bash
-git clone https://github.com/<ton-pseudo>/subnet-calculator-cli.git
+git clone https://github.com/sene404/subnet-calculator-cli.git
 cd subnet-calculator-cli
 ```
 
